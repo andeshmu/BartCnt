@@ -1,0 +1,9 @@
+C:\Develope\TestContainer\TestContainer\bin\TestContainer.dll.config
+C:\Develope\TestContainer\TestContainer\bin\TestContainer.dll
+C:\Develope\TestContainer\TestContainer\bin\TestContainer.pdb
+C:\Develope\TestContainer\TestContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Develope\TestContainer\TestContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Develope\TestContainer\TestContainer\obj\Debug\TestContainer.csprojResolveAssemblyReference.cache
+C:\Develope\TestContainer\TestContainer\obj\Debug\TestContainer.csproj.CoreCompileInputs.cache
+C:\Develope\TestContainer\TestContainer\obj\Debug\TestContainer.dll
+C:\Develope\TestContainer\TestContainer\obj\Debug\TestContainer.pdb
